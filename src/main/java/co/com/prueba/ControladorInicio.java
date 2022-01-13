@@ -32,7 +32,7 @@ public class ControladorInicio {
         
         Persona persona2 = new Persona();
         persona2.setNombre("Tati");
-        persona2.setApellido("Omen");
+        persona2.setApellido("Lola");
         persona2.setEmail("tati@hotm.com");
         persona2.setTelefono("1234345");
               
